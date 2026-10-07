@@ -45,6 +45,7 @@ work that channel — ethically and within Telegram's terms of service.
 ## Bots & Community Management
 
 - [Combot](https://combot.org) — analytics, moderation, and engagement tools for Telegram groups.
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
 
 ## Advertising Platforms
 
